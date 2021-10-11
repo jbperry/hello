@@ -15,7 +15,7 @@ Recipe is a JSON object.  The empty object above would do nothing.
 **Files**, **SQLTables**, **Folders**, and **FileLists** all are Arrays of Objects
 **PrepGlobals** is just an Object.
 
-```
+```json
 {
   "Files": [],
   "SqlTables": [],
